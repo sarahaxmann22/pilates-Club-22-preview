@@ -1,0 +1,9 @@
+{
+  "name": "Pilates Club 22 – Private Vorschau",
+  "short_name": "Club 22",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8f6f0",
+  "theme_color": "#f8f6f0",
+  "lang": "de"
+}
